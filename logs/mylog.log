@@ -1,0 +1,28 @@
+[FATAL] 2023-05-01 10:53:33.566 [main] StepDef - Setup1 executed...
+[INFO ] 2023-05-01 10:53:33.615 [main] StepDef - chrome browser launched
+[INFO ] 2023-05-01 10:53:35.662 [main] StepDef - url opened
+[INFO ] 2023-05-01 10:53:36.114 [main] StepDef - email address and password entered
+[INFO ] 2023-05-01 10:53:42.141 [main] StepDef - Clicked on login button
+[INFO ] 2023-05-01 10:53:42.279 [main] StepDef - user can view dashboard test passed.
+[INFO ] 2023-05-01 10:53:42.515 [main] StepDef - customer menu clicked
+[INFO ] 2023-05-01 10:53:46.284 [main] StepDef - customer menu item clicked
+[INFO ] 2023-05-01 10:53:49.782 [main] StepDef - clicked on add new button.
+[INFO ] 2023-05-01 10:53:49.961 [main] StepDef - User can view Add new customer page- passed
+[INFO ] 2023-05-01 10:53:51.060 [main] StepDef - User can view Add new customer page- failed
+[INFO ] 2023-05-01 10:53:52.985 [main] StepDef - clicked on save button
+[INFO ] 2023-05-01 10:53:53.327 [main] StepDef - User can view confirmation message - passed
+[INFO ] 2023-05-01 10:53:53.538 [main] StepDef - Browser closed
+[FATAL] 2023-05-01 11:07:58.462 [main] StepDef - Setup1 executed...
+[INFO ] 2023-05-01 11:07:58.509 [main] StepDef - chrome browser launched
+[INFO ] 2023-05-01 11:08:00.274 [main] StepDef - url opened
+[INFO ] 2023-05-01 11:08:00.579 [main] StepDef - email address and password entered
+[INFO ] 2023-05-01 11:08:05.411 [main] StepDef - Clicked on login button
+[INFO ] 2023-05-01 11:08:05.421 [main] StepDef - user can view dashboard test passed.
+[INFO ] 2023-05-01 11:08:05.513 [main] StepDef - customer menu clicked
+[INFO ] 2023-05-01 11:08:09.424 [main] StepDef - customer menu item clicked
+[INFO ] 2023-05-01 11:08:13.038 [main] StepDef - clicked on add new button.
+[INFO ] 2023-05-01 11:08:13.092 [main] StepDef - User can view Add new customer page- passed
+[INFO ] 2023-05-01 11:08:14.293 [main] StepDef - User can view Add new customer page- failed
+[INFO ] 2023-05-01 11:08:16.093 [main] StepDef - clicked on save button
+[INFO ] 2023-05-01 11:08:16.216 [main] StepDef - User can view confirmation message - passed
+[INFO ] 2023-05-01 11:08:16.342 [main] StepDef - Browser closed
